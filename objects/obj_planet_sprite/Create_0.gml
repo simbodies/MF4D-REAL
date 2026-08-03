@@ -1,0 +1,1 @@
+show_debug_message("Planet sprite created at x: " + string(x) + ", y: " + string(y));
