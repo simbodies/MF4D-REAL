@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MinHeap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MinHeap",
+  "parent":{
+    "name":"HttpClient",
+    "path":"folders/HTGM/HttpClient.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

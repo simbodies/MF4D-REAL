@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AsyncWrapper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AsyncWrapper",
+  "parent":{
+    "name":"AsyncWrapper",
+    "path":"folders/HTGM/AsyncWrapper.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
