@@ -1,0 +1,8 @@
+[submodule "audio_factory"]
+	path = audio_factory
+	url = https://github.com/Ndwigar/audio_factory.git
+	branch = visualizer_distro
+[submodule "visualizer"]
+	path = visualizer
+	url = https://github.com/Ndwigar/audio_factory.git
+	branch = visualizer_distro

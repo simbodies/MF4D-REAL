@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HtmxView",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HtmxView",
+  "parent":{
+    "name":"Htmx",
+    "path":"folders/HTGM/Htmx.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

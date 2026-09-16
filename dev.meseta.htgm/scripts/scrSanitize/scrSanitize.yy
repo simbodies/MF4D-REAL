@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrSanitize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSanitize",
+  "parent":{
+    "name":"Html",
+    "path":"folders/HTGM/Html.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

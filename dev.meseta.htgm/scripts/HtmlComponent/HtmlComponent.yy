@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HtmlComponent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HtmlComponent",
+  "parent":{
+    "name":"Html",
+    "path":"folders/HTGM/Html.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrHttpServerExceptionsInternal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrHttpServerExceptionsInternal",
+  "parent":{
+    "name":"HttpServer",
+    "path":"folders/HTGM/HttpServer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

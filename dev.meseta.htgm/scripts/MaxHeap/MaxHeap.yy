@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MaxHeap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MaxHeap",
+  "parent":{
+    "name":"HttpClient",
+    "path":"folders/HTGM/HttpClient.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

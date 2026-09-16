@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Chain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Chain",
+  "parent":{
+    "name":"Chain",
+    "path":"folders/HTGM/Chain.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

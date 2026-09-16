@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Exception",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Exception",
+  "parent":{
+    "name":"LoggingSuite",
+    "path":"folders/HTGM/LoggingSuite.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
